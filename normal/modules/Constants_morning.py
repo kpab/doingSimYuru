@@ -1,13 +1,13 @@
-# 朝ラ�?シュ用定数
+
 # ------------------------
 FRAME_COUNT = 30300
-SKIP_RESULT_COUNT = 300 # 結果にカウントしな�?フレー�?数
+SKIP_RESULT_COUNT = 300 
 BORN_RATE = 0.4
-FUTINOBE_RATE = 0.3 # 淵野辺�?
+FUTINOBE_RATE = 0.3 # 淵野辺
 
-MAX_SPEED = 2.5 # ?��
-MAX_MAX_SPEED = [3.0, 0.5] # 上振れ最高速度, 確�?
-MIN_MAX_SPEED = [2.0, 0.1] # 下振れ最高速度, 確�?
+MAX_SPEED = 2.5 #
+MAX_MAX_SPEED = [3.0, 0.5] 
+MIN_MAX_SPEED = [2.0, 0.1] 
 
 # -------------------------
 
