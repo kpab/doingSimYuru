@@ -31,7 +31,7 @@ HEIGHT_HEATMAP = int(HEIGHT/10)
 # 壁置く時:全部False
 # シミュレーション回す時、�?�部True
 
-PERFECT_FAKE = False # �?�?
+PERFECT_FAKE = True # �?�?
 HIDE = False # シミュレーション�?すか
 BACKGROUND = False # Background�?
 # ----------------
